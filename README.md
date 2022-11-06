@@ -1,3 +1,4 @@
 # Tokyo
 This is my testing repository
-Edits from John
+Edits from John.
+More code from John.
